@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Currículo - Paulo Eduardo</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div id="cv">
+      <!-- Cabeçalho - informações pessoais -->
+      <header class="personal-details">
+        <!-- Avatar do Candidato -->
+        <div id="avatar">
+          <img
+            src="https://media-exp1.licdn.com/dms/image/C4E03AQGbUWAjqd0QJw/profile-displayphoto-shrink_100_100/0?e=1597881600&v=beta&t=x6_NeqKoOUKbaFwn94q1fjqB3CbBxYH45TRj1ZA3YvQ"
+            alt="Foto do Candidato"
+          />
+        </div>
+        <!-- Nome e Título do Candidato -->
+        <div id="name-title">
+          <h1>Paulo Eduardo H Silva</h1>
+          <h2>DBA ORACLE</h2>
+        </div>
+        <!-- Detalhes de Contato -->
+        <div id="contact-details">
+          <ul>
+            <li><i class="fas fa-map-marker-alt"></i> Belo Horizonte-MG, Brasil</li>
+            <li>
+              <i class="fas fa-envelope-open-text"></i>
+              <a href="mailto:cpaulos008@gmail.com">paulos008@gmail.com</a>
+            </li>
+            <li>
+              <i class="fab fa-linkedin"></i>
+              <a href="https://www.linkedin.com/in/pauloeduardohsilva/">Linkedin</a>
+            </li>
+            <li>
+              <i class="fab fa-github-square"></i>
+              <a href="https://www.github.com/camilage">GitHub</a>
+            </li>
+            <li>
+            </li>
+          </ul>
+        </div>
+      </header>
+      <!-- Corpo do Currículo - Informações Profissionais -->
+      <main id="professional-details">
+        <!--   Perfil Profissional   -->
+        <section>
+          <div class="section-title">
+            <h1>Perfil</h1>
+          </div>
+          <div class="section-content">
+            <p>
+              Pessoa altamente comprometida, focada em resultados.
+		Ótimas habilidades interpessoais, permitindo-me navegar entre as áreas com foco na resolução rápida de problemas.
+		Alto grau de trabalho em equipe, permitindo mostrar aos colegas que juntos podemos fazer a diferença.
+		Tem trabalhado diretamente com base de dados Oracle em ambiente Linux desde 2014.💜
+            </p>
+          </div>
+        </section>
+        <!-- Experiência Profissional -->
+        <section>
+          <div class="section-title">
+            <h1>Experiência Profissional</h1>
+          </div>
+          <div class="section-content">
+            <article>
+              <h2>DBA ORACLE | Tribunal de Contas do Estado de Minas Gerais</h2>
+              <p class="sub-details">Janeiro 2020 - Presente</p>
+              <p>
+                Administração de bases de dados Oracle em sistemas operacionais Linux.
+              </p>
+              <p>
+                Principais responsabilidades: 
+		▪ Administração de ambientes Oracle Exadata.
+		▪ Duplicate via Rman.
+		▪ Aplicação de patch.
+		▪ Rman.
+		▪ Monitoramento de ambiente.
+		▪ Expdp e IMPDP.
+		▪ Suporte ao time de desenvolvimento.
+              </p>
+            </article>
+            <article>
+              <h2>Analista Business Intelligence | Líder Aviação </h2>
+              <p class="sub-details">Dezembro de 2018  - Jan 2020</p>
+              <p>
+               	 ▪ Modelagem, desenvolvimento e manutenção de data warehouse.
+		▪ Apoio na elaboração de indicadores (KPI’s) de performance de negócios.
+		▪ Colaboração com clientes internos de negócio.
+		▪ Análise e tradução de requisitos de negócios em soluções.
+		▪ Desenvolvimento Oracle BI: OBIEE, PL-SQL.
+		▪ ETL via Pentaho + Apresentação via QlikSense.
+		▪ Tarefas de administração da instância de banco de dados Oracle, administração de espaço, criação de indíces, move de tablespaces etc.
+              </p>
+            </article>
+            <article>
+              <h2>Assistente Business Intelligence | Líder Aviação</h2>
+              <p class="sub-details">Março de 2018 – Dezembro de 2018</p>
+              <p>
+               	 ▪ Desenvolvimento de ETL em PL/SQL.
+		 ▪ Modelagem e desenvolvimento e manutenção de data warehouse.
+	 	▪ Criação, migração e edição de painéis / perfis / relatórios / gráficos, usando OBIEE12C.
+	 	▪ Administração de ambiente OBIEE.
+		 ▪ Análise e tradução de requisitos de negócios em soluções.
+              </p>
+            </article>
+	<article>
+              <h2>Assistente Banco de dados Oracle / ATG | Líder Aviação</h2>
+              <p class="sub-details">Outubro de 2014 – Março de 2018</p>
+              <p>
+               	 ▪ Administração de ambientes Oracle e sistemas satélites.
+		▪ DBA - Aplicação de patch.
+		▪ Atualização de versão de banco de dados.
+		▪ Clonagem usando duplicate.
+		▪ Expdp e IMPDP.
+		▪ ATG - Ambiente de clonagem, aplicação de patch, suporte a usuários de ERP, sysadmin, backup.
+		▪ Criação rotinas para automação de tarefas de administração de banco de dados.
+		▪ Suporte ao time de desenvolvimento.
+		▪ Realização de análise de performance via EM.
+		▪ Execução de rotinas de backup e recovery.
+		▪ Administração de Sistemas Operacionais Linux onde os bancos de dados são executados.
+		▪ Administração de Instância ASM, desde instalação, configuração, adição, remoção de discos.
+              </p>
+            </article>
+	  <article>
+              <h2>Assistente de Suporte III | Líder Aviação</h2>
+              <p class="sub-details">Dezembro de 2012 – Outubro de 2014</p>
+              <p>
+               	 ▪ Suporte remoto para usuários, organização de computadores.
+		▪ Manutenção nos terminais.
+		▪ Ajuda os usuários a resolver problemas.
+		▪ Administração de usuários via Active Directory.
+              </p>
+            </article>
+          </div>
+        </section>
+        <!-- Habilidades Chave -->
+        <section>
+          <div class="section-title">
+            <h1>Competências</h1>
+          </div>
+          <div class="section-content">
+            <ul class="key-skills">
+              <li>Inglês básico</li>
+            </ul>
+          </div>
+        </section>
+        <!-- Formação -->
+        <section>
+          <div class="section-title">
+            <h1>Formação</h1>
+          </div>
+          <div class="section-content">
+            <article>
+              <h2>Graduação em Analise e Desenvolvimento de Sistemas</h2>
+              <p class="sub-details">Faculdade Cotemig - Minas Gerais | 2013 - 2019</p>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
